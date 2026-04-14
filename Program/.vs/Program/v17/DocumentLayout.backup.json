@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Programming\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD9AAB7-A5A1-4095-8968-2EE87954EBEE}|Program.vcxproj|C:\\Users\\User\\Desktop\\Programming\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBD9AAB7-A5A1-4095-8968-2EE87954EBEE}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643A405-EAA8-4A68-92D3-3AB9AC34C855}|..\\Class 1th (Input System\\Class 1th (Input System.vcxproj|C:\\Users\\User\\Desktop\\Programming\\Class 1th (Input System\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Class 1th (Input System\\source.c",
+              "RelativeDocumentMoniker": "..\\Class 1th (Input System\\source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Class 1th (Input System\\source.c",
+              "RelativeToolTip": "..\\Class 1th (Input System\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-14T09:12:36.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Program\\source.c",
+              "RelativeDocumentMoniker": "source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\source.c",
+              "RelativeToolTip": "source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T09:07:37.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
