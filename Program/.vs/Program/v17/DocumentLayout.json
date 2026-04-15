@@ -8,6 +8,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{C643A405-EAA8-4A68-92D3-3AB9AC34C855}|..\\Class 1th (Input System\\Class 1th (Input System.vcxproj|C:\\Users\\User\\Desktop\\Programming\\Class 1th (Input System\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E41B7-048C-445D-84EB-D4B5506714DE}|..\\Class 2th (Time System)\\Class 2th (Time System).vcxproj|C:\\Users\\User\\Desktop\\Programming\\Class 2th (Time System)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +20,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Class 2th (Time System)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class 2th (Time System)\\source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Class 2th (Time System)\\source.c",
+              "RelativeToolTip": "..\\Class 2th (Time System)\\source.c",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-15T10:05:53.181Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -40,7 +56,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-13T09:07:37.446Z",
               "EditorCaption": ""

@@ -1,50 +1,17 @@
 #include <stdio.h>
 
-void shuffle(int array[], int size)
-{
-	for (int i = 0; i < size; i++)
-	{
-		int j = rand() % size;
-
-		int temp;
-
-		temp = array[i];
-		array[i] = array[j];
-		array[j] = temp;
-	}
-}
-
 int main()
 {
-#pragma region 의사 난수
-	// 0 ~ 32767 사이의 난수 값을 반환하는 함수입니다.
+#pragma region 파일 입출력
 
-	// UTC 기준으로 1970년 1월 1일 0시 0분 0초부터 경과된
-	// 시간을 초(sec)로 반환하는 함수입니다.
-	
-	// srand : rand()가 사용할 초기값(seed)을 설정하는 함수
+	// 첫 번째 매개 변수 (파일의 이름)
+	// 두 번째 매개 변수 (파일의 입출력 모드)
 
-	//srand(time(NULL));
-	//
-	//int random = rand() % 10 + 1;
-	//
-	//printf("%d", random);
-#pragma endregion
+	FILE* file = fopen("data.txt", "w");
 
-#pragma region 셔플 함수
+	fputs("asdasd",file);
 
-	srand(time(NULL));
-
-	int array[] = {1,2,3,4,5,6,7,8,9,10};
-	int size = sizeof(array) / sizeof(array[0]);
-
-	shuffle(array, size);
-
-	for (int a = 0; a < size; a++)
-	{
-		printf("%d\n", array[a]);
-	}
-
+	fclose(file);
 #pragma endregion
 
 
