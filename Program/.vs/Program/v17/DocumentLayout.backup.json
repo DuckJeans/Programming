@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{DBD9AAB7-A5A1-4095-8968-2EE87954EBEE}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7C2F73A5-F56C-4F71-B8BD-2EAF89585C9C}|..\\Class 3th (File Input \u0026 Output)\\Class 3th (File Input \u0026 Output).vcxproj|C:\\Users\\User\\Desktop\\Programming\\Class 3th (File Input \u0026 Output)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C643A405-EAA8-4A68-92D3-3AB9AC34C855}|..\\Class 1th (Input System\\Class 1th (Input System.vcxproj|C:\\Users\\User\\Desktop\\Programming\\Class 1th (Input System\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,11 +23,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Class 3th (File Input \u0026 Output)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class 3th (File Input \u0026 Output)\\source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Class 3th (File Input \u0026 Output)\\source.c",
+              "RelativeToolTip": "..\\Class 3th (File Input \u0026 Output)\\source.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-20T10:36:23.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Class 2th (Time System)\\source.c",
               "RelativeDocumentMoniker": "..\\Class 2th (Time System)\\source.c",
@@ -36,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming\\Class 1th (Input System\\source.c",
               "RelativeDocumentMoniker": "..\\Class 1th (Input System\\source.c",
@@ -54,7 +69,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\Programming\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAE4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-13T09:07:37.446Z",
               "EditorCaption": ""
